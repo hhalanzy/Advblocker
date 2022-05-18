@@ -1,0 +1,911 @@
+{
+    "options_popup_title_placeholder": {
+        "message": "Enter a filter name"
+    },
+    "options_filters_list_search_display_option_all": {
+        "message": "All"
+    },
+    "options_filters_list_search_display_option_enabled": {
+        "message": "Enabled"
+    },
+    "options_filters_list_search_display_option_disabled": {
+        "message": "Disabled"
+    },
+    "options_disable_webrtc_description": {
+        "message": "Prevent a possible disclosure of your real IP address even with proxy or VPN through WebRTC"
+    },
+    "options_antibanner_custom_filter_already_exists": {
+        "message": "This custom filter has already been added"
+    },
+    "popup_header_cta_link": {
+        "message": "Blokir lebih banyak?"
+    },
+    "options_popup_import_settings_wrong_file_extension": {
+        "message": "The file extension should be .json"
+    },
+    "popup_advblocker_for_ios": {
+        "message": "AdvBlocker for iOS"
+    },
+    "popup_advblocker_for_android": {
+        "message": "AdvBlocker for Android"
+    },
+    "options_filters_filter_version": {
+        "message": "version:"
+    },
+    "options_filters_filter_updated": {
+        "message": "updated:"
+    },
+    "popup_get_premium": {
+        "message": "Get Premium"
+    },
+    "options_popup_version_update_disable_notification": {
+        "message": "Disable notifications"
+    },
+    "options_general_settings_title": {
+        "message": "Settings"
+    },
+    "options_miscellaneous_title": {
+        "message": "Others"
+    },
+    "popup_advblocker_footer_title": {
+        "message": "Get advblocker for your mobile"
+    },
+    "options_popup_new_filter_subscription": {
+        "message": "New filter subscription"
+    },
+    "options_popup_call_to_action": {
+        "message": "Enter valid URL or file path of the filter into field above."
+    },
+    "options_popup_description": {
+        "message": "You will be subscribed to that filter."
+    },
+    "options_popup_url_placeholder": {
+        "message": "Enter URL or path"
+    },
+    "options_popup_cancel_button": {
+        "message": "Cancel"
+    },
+    "options_popup_next_button": {
+        "message": "Next"
+    },
+    "options_popup_checking_filter": {
+        "message": "Checking your filter"
+    },
+    "options_popup_check_false_title": {
+        "message": "Error"
+    },
+    "options_popup_check_false_description": {
+        "message": "Error while adding your custom filter"
+    },
+    "options_popup_try_again_button": {
+        "message": "Try again"
+    },
+    "options_popup_filter_title": {
+        "message": "Title:"
+    },
+    "options_popup_filter_description": {
+        "message": "Description:"
+    },
+    "options_popup_filter_version": {
+        "message": "Version:"
+    },
+    "options_popup_filter_rules_count": {
+        "message": "Rules count:"
+    },
+    "options_popup_filter_homepage": {
+        "message": "Homepage:"
+    },
+    "options_popup_filter_url": {
+        "message": "URL:"
+    },
+    "options_popup_back_button": {
+        "message": "Back"
+    },
+    "options_popup_subscribe_button": {
+        "message": "Subscribe"
+    },
+    "name": {
+        "message": "AdvBlocker AdBlocker"
+    },
+    "sync_provider_browser_storage": {
+        "message": "Browser storage"
+    },
+    "description": {
+        "message": "Ekstensi adblock tidak cocok melawan iklan dan pop-ups. Blok iklan pada Facebook, Youtube dan semua situs lainnya."
+    },
+    "background_tab_title": {
+        "message": "Background tab"
+    },
+    "advblocker_product_windows": {
+        "message": "AdvBlocker untuk Windows"
+    },
+    "advblocker_product_mac": {
+        "message": "AdvBlocker untuk Windows"
+    },
+    "options_whitelist": {
+        "message": "Daftar putih"
+    },
+    "options_userfilter": {
+        "message": "Penyaring pengguna"
+    },
+    "filtering_log_modified_rules": {
+        "message": "Modified rules:"
+    },
+    "filtering_log_privacy_applied_rules": {
+        "message": "Stealth Mode applied"
+    },
+    "filtering_log_in_whitelist": {
+        "message": "Situs didaftar putihkan"
+    },
+    "filtering_log_hide_referrer": {
+        "message": "Referrer hidden from third-parties"
+    },
+    "filtering_log_hide_search_queries": {
+        "message": "Your search queries hidden"
+    },
+    "filtering_log_remove_client_data": {
+        "message": "X-Client-Data header removed"
+    },
+    "filtering_log_send_not_track": {
+        "message": "Do-Not-Track header sent"
+    },
+    "options_select_update_period_48h": {
+        "message": "48 hours"
+    },
+    "options_select_update_period_24h": {
+        "message": "24 hours"
+    },
+    "options_select_update_period_12h": {
+        "message": "12 hours"
+    },
+    "options_select_update_period_6h": {
+        "message": "6 hours"
+    },
+    "options_select_update_period_1h": {
+        "message": "1 hour"
+    },
+    "options_select_update_period_disabled": {
+        "message": "Disabled"
+    },
+    "options_antibanner": {
+        "message": "Pemblokir&nbsp;iklan"
+    },
+    "options_antibanner_info": {
+        "message": "Jumlah aturan penyaringan: $1"
+    },
+    "options_antibanner_custom_group": {
+        "message": "Custom"
+    },
+    "options_filters_enabled": {
+        "message": "Enabled:"
+    },
+    "options_filters_enabled_and_more_divider": {
+        "message": "$1 and $2 more"
+    },
+    "options_filters_enabled_and_divider": {
+        "message": "$1 and $2"
+    },
+    "options_filters_no_enabled": {
+        "message": "No filters enabled"
+    },
+    "options_filters_filter_trusted_tag": {
+        "message": "trusted"
+    },
+    "options_filters_filter_trusted_tag_desc": {
+        "message": "You chose to trust this filter"
+    },
+    "options_add_custom_filter": {
+        "message": "Add custom filter"
+    },
+    "options_empty_custom_filter": {
+        "message": "Sorry, but you don't have any custom filters yet"
+    },
+    "options_editor_indicator_editing": {
+        "message": "Editing..."
+    },
+    "options_editor_indicator_saving": {
+        "message": "Saving..."
+    },
+    "options_editor_indicator_saved": {
+        "message": "Saved"
+    },
+    "options_filter_version": {
+        "message": "Versi $1. Diperbarui $2 pada $3."
+    },
+    "options_popup_import_success_title": {
+        "message": "Settings imported successfully"
+    },
+    "options_popup_import_error_title": {
+        "message": "Error importing settings"
+    },
+    "options_filters_list_search_placeholder": {
+        "message": "Enter the search string"
+    },
+    "options_popup_import_error_description": {
+        "message": "Something went wrong"
+    },
+    "options_popup_import_error_file_title": {
+        "message": "Error loading file"
+    },
+    "options_popup_import_rules_error_title": {
+        "message": "Error"
+    },
+    "options_popup_import_rules_unknown_error": {
+        "message": "Unknown error happened while loading rules:"
+    },
+    "options_popup_import_rules_wrong_file_extension": {
+        "message": "The file extension should be .txt"
+    },
+    "options_popup_import_error_file_description": {
+        "message": "Something went wrong"
+    },
+    "options_popup_trusted_filter_title": {
+        "message": "Trusted"
+    },
+    "options_popup_trusted_filter_description": {
+        "message": "Trusted filters can use powerful filtering rules modifiers which can be dangerous in the wrong hands. Do not check this box unless you fully trust it."
+    },
+    "sync_last_sync_time_never_sync_text": {
+        "message": "Not yet synced"
+    },
+    "sync_now_button_text": {
+        "message": "Sync now"
+    },
+    "sync_in_progress_button_text": {
+        "message": "Sync is in progress..."
+    },
+    "popup_site_filtering_state": {
+        "message": "Perlindungan pada situs ini"
+    },
+    "popup_site_filtering_state_secure_page": {
+        "message": "Halaman aman"
+    },
+    "popup_site_filtering_state_enabled": {
+        "message": "Ad Blocker On" 
+    },
+    "popup_site_filtering_state_disabled": {
+        "message": "Ad Blocker Off" 
+    },
+    "popup_site_filtering_state_paused": {
+        "message": "Ad Blocker Paused" 
+    },
+    "popup_site_filtering_state_tab_unavailable": {
+        "message": "Unavailable"
+    },
+    "popup_site_filtering_state_subscription_unavailable": {
+        "message": "Unavailable"
+    },
+    "popup_site_filtering_disabled": {
+        "message": "AdvBlocker tidak bisa dijalankan pada domain ini"
+    },
+    "popup_site_exception": {
+        "message": "Situs ini ada dalam pengecualian"
+    },
+    "popup_site_exception_info": {
+        "message": "Penyaringan &nbsp;dinonaktifakn, karena &nbsp;dapat menggangu kerja situs ini."
+    },
+    "popup_tab_blocked": {
+        "message": "Diblok: $1"
+    },
+    "popup_tab_blocked_all": {
+        "message": "Total: $1"
+    },
+    "popup_statistics_total": {
+        "message": "Total"
+    },
+    "popup_statistics_week_days_mon": {
+        "message": "Mon"
+    },
+    "popup_statistics_week_days_tue": {
+        "message": "Tue"
+    },
+    "popup_statistics_week_days_wed": {
+        "message": "Wed"
+    },
+    "popup_statistics_week_days_thu": {
+        "message": "Thu"
+    },
+    "popup_statistics_week_days_fri": {
+        "message": "Fri"
+    },
+    "popup_statistics_week_days_sat": {
+        "message": "Sat"
+    },
+    "popup_statistics_week_days_sun": {
+        "message": "Sun"
+    },
+    "popup_statistics_months_jan": {
+        "message": "Jan"
+    },
+    "popup_statistics_months_feb": {
+        "message": "Feb"
+    },
+    "popup_statistics_months_mar": {
+        "message": "Mar"
+    },
+    "popup_statistics_months_apr": {
+        "message": "Apr"
+    },
+    "popup_statistics_months_may": {
+        "message": "May"
+    },
+    "popup_statistics_months_jun": {
+        "message": "Jun"
+    },
+    "popup_statistics_months_jul": {
+        "message": "Jul"
+    },
+    "popup_statistics_months_aug": {
+        "message": "Aug"
+    },
+    "popup_statistics_months_sep": {
+        "message": "Sep"
+    },
+    "popup_statistics_months_oct": {
+        "message": "Oct"
+    },
+    "popup_statistics_months_nov": {
+        "message": "Nov"
+    },
+    "popup_statistics_months_dec": {
+        "message": "Dec"
+    },
+    "popup_integrate_mode_title": {
+        "message": "The extension is integrated with a desktop app"
+    },
+    "popup_integrate_mode_title_mac": {
+        "message": "AdvBlocker for Mac<br>is active"
+    },
+    "popup_integrate_mode_title_win": {
+        "message": "AdvBlocker for Windows<br>is active"
+    },
+    "sb_malware_site": {
+        "message": "Laman situs pada <strong>$1</strong>, dilaporkan sebagai laman malware dan telah diblok berdasar pada pengaturan keamanan anda."
+    },
+    "sb_phishing_site": {
+        "message": "Laman situs pada <strong>$1</strong>, dilaporkan sebagai laman phising dan telah diblok berdasar pada pengaturan keamanan anda."
+    },
+    "thankyou_want_full_protection": {
+        "message": "Ingin mencoba proteksi penuh? Unduh advblocker untuk Windows!"
+    },
+    "thankyou_want_full_protection_mac": {
+        "message": "Ingin mencoba proteksi penuh? Unduh advblocker untuk Mac!"
+    },
+    "thankyou_compare_full_title": {
+        "message": "AdvBlocker untuk Windows"
+    },
+    "thankyou_compare_full_title_mac": {
+        "message": "AdvBlocker untuk Mac"
+    },
+    "sync_provider_advblocker": {
+        "message": "AdvBlocker"
+    },
+    "sync_provider_dropbox": {
+        "message": "Dropbox"
+    },
+    "options_popup_update_title_error": {
+        "message": "Error updating filters"
+    },
+    "options_popup_update_not_found": {
+        "message": "Tidak ditemukan pembaruan"
+    },
+    "options_popup_update_error": {
+        "message": "Gagal mendapatkan pembaruan. Silahkan coba kembali nanti."
+    },
+    "options_popup_update_filter": {
+        "message": "was updated."
+    },
+    "options_popup_update_filters": {
+        "message": "were updated."
+    },
+    "options_popup_version_update_title": {
+        "message": "AdvBlocker extension has been updated to version $1"
+    },
+    "options_popup_version_update_description_minor": {
+        "message": "This version contains mostly bugfixes and minor improvements."
+    },
+    "options_popup_version_update_description_major": {
+        "message": "This is a major extension upgrade that brings a lot of new features and improvements."
+    },
+    "options_popup_version_update_changelog_text": {
+        "message": "What's new in this version?"
+    },
+    "options_popup_version_update_offer": {
+        "message": "Did you know that advblocker capabilities are not limited to this browser?"
+    },
+    "options_popup_version_update_offer_button_text": {
+        "message": "LEARN MORE"
+    },
+    "popup_block_site_ads": {
+        "message": "Blok iklan&nbsp;pada&nbsp;situs ini"
+    },
+    "popup_security_report": {
+        "message": "Laporan keamanan situs"
+    },
+    "popup_open_settings": {
+        "message": "Pengaturan advblocker"
+    },
+    "popup_site_protection_disabled": {
+        "message": "Perlindungan advblocker sedang dijeda"
+    },
+    "popup_block_site_ads_android": {
+        "message": "Blok iklan pada sebuah situs"
+    },
+    "popup_security_report_android": {
+        "message": "Laporan keamanan"
+    },
+    "popup_in_white_list_android": {
+        "message": "Didaftar putih"
+    },
+    "popup_site_protection_disabled_android": {
+        "message": "Perlindungan dijeda"
+    },
+    "popup_open_log_android": {
+        "message": "Log penyaringan"
+    },
+    "context_block_site_ads": {
+        "message": "Blok iklan pada situs ini..."
+    },
+    "context_block_site_element": {
+        "message": "Blok elemen..."
+    },
+    "context_security_report": {
+        "message": "Buka laporan keamanan situs..."
+    },
+    "context_complaint_website": {
+        "message": "Submit a complaint about this website..."
+    },
+    "context_ads_has_been_removed": {
+        "message": "Iklan telah dibuang dari laman ini"
+    },
+    "context_ads_has_been_removed_by_advblocker": {
+        "message": "Dilindungi oleh $1"
+    },
+    "context_site_filtering_disabled": {
+        "message": "AdvBlocker tidak bisa dijalankan pada domain ini"
+    },
+    "context_disable_protection": {
+        "message": "Jeda perlindungan advblocker"
+    },
+    "context_enable_protection": {
+        "message": "Lanjutkan perlindungan advblocker"
+    },
+    "context_site_protection_disabled": {
+        "message": "Perlindungan advblocker sedang dijeda"
+    },
+    "context_open_settings": {
+        "message": "Pengaturan advblocker..."
+    },
+    "context_open_log": {
+        "message": "Log penyaringan..."
+    },
+    "context_site_exception": {
+        "message": "Situs ini ada dalam pengecualian"
+    },
+    "context_site_filtering_on": {
+        "message": "Aktifkan penyaring pada situs ini"
+    },
+    "context_site_filtering_off": {
+        "message": "Nonaktifkan penyaring pada situs ini"
+    },
+    "context_update_antibanner_filters": {
+        "message": "Periksa pembaruan penyaring"
+    },
+    "context_general_settings": {
+        "message": "Pengaturan umum"
+    },
+    "context_antibanner": {
+        "message": "Pemblok iklan"
+    },
+    "context_safebrowsing": {
+        "message": "Keamanan jelajah"
+    },
+    "context_whitelist": {
+        "message": "Daftar putih"
+    },
+    "context_userfilter": {
+        "message": "Penyaring pengguna"
+    },
+    "context_miscellaneous_settings": {
+        "message": "Lainnya"
+    },
+    "alert_popup_filter_enabled_title": {
+        "message": "Aktivasi otomatis penyaring"
+    },
+    "alert_popup_filter_enabled_text": {
+        "message": "«$1» telah diaktifkan secara otomatis"
+    },
+    "filter_download_title": {
+        "message": "Basis data penyaring sedang dimuat..."
+    },
+    "filter_download_loading": {
+        "message": "Silahkan tunggu basis data penyaring sedang dimuat..."
+    },
+    "filter_download_do_you_know": {
+        "message": "Tahukah anda?"
+    },
+    "filter_download_sb_sites": {
+        "message": "Basis data phising dan malware advblocker berisi<br/>lebih dari 1 milyar situs."
+    },
+    "filter_download_rules": {
+        "message": "Rata-ratanya kami menambahkan lebih dari 100 aturan penyaring iklan tiap minggu."
+    },
+    "filter_download_ads_malware": {
+        "message": "90% virus dan software mencurigakan didistribusikan <br/>lewat jaringan iklan yang tidak bermoral."
+    },
+    "filtering_modal_element": {
+        "message": "Element:"
+    },
+    "filtering_modal_important": {
+        "message": "Beri prioritas lebih tingggi ke aturan"
+    },
+    "filtering_log_title": {
+        "message": "Log penyaringan"
+    },
+    "filtering_log_tab": {
+        "message": "Tab:"
+    },
+    "filtering_log_search_string": {
+        "message": "Masukkan string pencarian"
+    },
+    "filtering_log_preserve_log": {
+        "message": "Preserve log"
+    },
+    "filtering_refresh_tab": {
+        "message": "Segarkan laman"
+    },
+    "filtering_clear_tab_events": {
+        "message": "Bersih"
+    },
+    "filtering_type_all": {
+        "message": "Semua"
+    },
+    "filtering_table_type": {
+        "message": "Tipe"
+    },
+    "filtering_table_rule": {
+        "message": "Aturan penyaring"
+    },
+    "filtering_table_source": {
+        "message": "Sumber"
+    },
+    "filtering_table_filter": {
+        "message": "Penyaring"
+    },
+    "filtering_table_empty_message": {
+        "message": "The log for this page is empty."
+    },
+    "filtering_table_empty_reload_page": {
+        "message": "<a href='#' class='reloadTab'>Reload page</a> to see the log."
+    },
+    "filtering_modal_info_title": {
+        "message": "Detai permintaan"
+    },
+    "filtering_modal_type": {
+        "message": "Tipe:"
+    },
+    "filtering_modal_source": {
+        "message": "Sumber:"
+    },
+    "filtering_modal_rule": {
+        "message": "Aturan:"
+    },
+    "filtering_modal_rules": {
+        "message": "Rules:"
+    },
+    "filtering_modal_privacy": {
+        "message": "Stealth Mode:"
+    },
+    "filtering_modal_filter": {
+        "message": "Penyaring:"
+    },
+    "filtering_modal_block": {
+        "message": "Blok"
+    },
+    "filtering_modal_unblock": {
+        "message": "Jangan blok"
+    },
+    "filtering_modal_remove_user": {
+        "message": "Buang dari penyaring pengguna"
+    },
+    "filtering_modal_remove_whitelist": {
+        "message": "Buang dari penyaring daftar putih"
+    },
+    "filtering_modal_add_title": {
+        "message": "Menambah aturan"
+    },
+    "filtering_modal_rule_text": {
+        "message": "Teks aturan"
+    },
+    "filtering_modal_patterns": {
+        "message": "Pola"
+    },
+    "filtering_modal_options": {
+        "message": "Opsi"
+    },
+    "filtering_modal_apply_domains": {
+        "message": "Terapkan aturan ke semua situs"
+    },
+    "filtering_modal_match_case": {
+        "message": "Pertimbangkan kasus"
+    },
+    "filtering_modal_third_party": {
+        "message": "Terapkan hanya ke permintaan pihak ketiga"
+    },
+    "filtering_modal_add_rule": {
+        "message": "Tambah aturan"
+    },
+    "filtering_modal_exception_title": {
+        "message": "Menambahkan pengecualian"
+    },
+    "filtering_modal_open_in_new_tab": {
+        "message": "Buka di tab baru"
+    },
+    "options_settings": {
+        "message": "Pengaturan advblocker"
+    },
+    "options_general_settings": {
+        "message": "Pengaturan Umum"
+    },
+    "options_allow_acceptable_ads": {
+        "message": "Izinkan iklan yang&nbsp;diterima<a target='_blank' href='https://kb.advblocker.com/general/search-ads-and-self-promotion?utm_source=extension&aid=16593' class='sp-table-row-info'>Selengkapnya</a>"
+    },
+    "options_show_blocked_ads_count": {
+        "message": "Mengindikasikan jumlah iklan diblok pada ikon ekstensi advblocker"
+    },
+    "options_enable_autodetect_filter": {
+        "message": "Aktifkan penyaring yang paling sesuai secara otomatis"
+    },
+    "options_export_settings": {
+        "message": "Export settings"
+    },
+    "options_import_settings": {
+        "message": "Import settings"
+    },
+    "options_privacy": {
+        "message": "Stealth Mode"
+    },
+    "options_update_antibanner_filters": {
+        "message": "Periksa pembaruan penyaring"
+    },
+    "options_set_update_interval": {
+        "message": "Filters update interval"
+    },
+    "options_too_many_filters_selected": {
+        "message": "Anda terlalu banyak memilih langganan penyaring. Hal ini dapat memperlambat penjelajahan situs secara&nbsp;signifikan."
+    },
+    "options_userfilter_export": {
+        "message": "Ekspor"
+    },
+    "options_userfilter_import": {
+        "message": "Impor"
+    },
+    "options_whitelist_description": {
+        "message": "AdvBlocker tidak akan menyaring situs web dalam daftar putih."
+    },
+    "options_whitelist_inverse": {
+        "message": "Baik daftar putih<span class='sp-table-row-info'>Jangan blok iklan dimanapun<i>kecuali</i>daftar putih</span>"
+    },
+    "options_whitelist_inverse_desc": {
+        "message": "Unblock ads everywhere <i>except</i> for the whitelist"
+    },
+    "options_userfilter_description": {
+        "message": "Anda bisa menambah aturan sendiri ke penyaring. Opsi ini disarankan untuk pengguna lanjutan yang biasa dengan HTML/CSS. Baca <a class='spl-user-descr-link' href='https://advblocker.com/filterrules.html?utm_source=extension&aid=16593' target='_blank'>tutorial aturan penyaring</a> untuk mempelajari cara menulis aturan penyaring anda."
+    },
+    "options_open_changelog": {
+        "message": "Log perubahan"
+    },
+    "options_safebrowsing": {
+        "message": "Keamanan jelajah"
+    },
+    "options_safebrowsing_enabled": {
+        "message": "Perlindungan dari phishing dan program&nbsp;berbahaya<a target='_blank' href='https://kb.advblocker.com/general/how-malware-protection-works?utm_source=extension&aid=16593' class='sp-table-row-info'>Selengkapnya</a>"
+    },
+    "options_safebrowsing_help": {
+        "message": "Bantu dalam pengembangan penyaring Keamanan jelajah<span class='sp-table-row-info'>Kirimkan secara anonim informasi kaitan keamanan</span>"
+    },
+    "options_safebrowsing_help_desc": {
+        "message": "Submit anonymous security-related information"
+    },
+    "options_site": {
+        "message": "Situs Resmi"
+    },
+    "options_discuss": {
+        "message": "Discuss advblocker"
+    },
+    "options_do_you_like": {
+        "message": "Apakah&nbsp;Anda suka advblocker?"
+    },
+    "options_footer_like_us": {
+        "message": "Beri&nbsp;nilai!"
+    },
+    "options_miscellaneous_settings": {
+        "message": "Lainnya"
+    },
+    "options_show_advblocker_full_version": {
+        "message": "Lihat informasi pada versi penuh advblocker"
+    },
+    "options_show_app_updated_notification": {
+        "message": "Notify about extension updates"
+    },
+    "options_open_log": {
+        "message": "Log penyaringan"
+    },
+    "options_reset_stats": {
+        "message": "Ubah statistik"
+    },
+    "options_reset_stats_done": {
+        "message": "Statistik telah dikembalikan"
+    },
+    "options_collect_hit_stats": {
+        "message": "Kirim statistik&nbsp;penggunaan penyaring&nbsp;iklan<a target='_blank' href='https://kb.advblocker.com/general/filter-rules-statistics?utm_source=extension&aid=16593' class='sp-table-row-info'>Selengkapnya</a>"
+    },
+    "options_show_context_menu": {
+        "message": "Tambah item advblocker ke konteks menu browser"
+    },
+    "options_use_optimized_filters": {
+        "message": "Gunakan pemisah yang dioptimalkan.<span class='sp-table-row-info'>Daftar pemisah tidak penting dioptimalkan untuk digunakan di perangkat seluler.</span>"
+    },
+    "options_use_optimized_filters_desc": {
+        "message": "Lists of filters optimized for mobile devices"
+    },
+    "options_disable_integration_mode": {
+        "message": "Enable integration mode"
+    },
+    "options_learn_more": {
+        "message": "Learn more about it"
+    },
+    "options_privacy_title": {
+        "message": "Stealth Mode"
+    },
+    "options_privacy_desc": {
+        "message": "Protect your identity and sensitive personal information from thousands of online trackers by blocking the most popular tracking methods."
+    },
+    "options_hide_referrer_title": {
+        "message": "Hide Referrer from third-parties"
+    },
+    "options_hide_referrer_desc": {
+        "message": "Prevent third-parties from knowing what website you are visiting"
+    },
+    "options_hide_search_queries_title": {
+        "message": "Hide your search queries"
+    },
+    "options_hide_search_queries_desc": {
+        "message": "Hide the queries for websites visited from a search engine"
+    },
+    "options_send_not_track_title": {
+        "message": "Send Do-Not-Track header"
+    },
+    "options_stripped_tracking_parameters": {
+        "message": "Tracking parameters removed"
+    },
+    "options_modified_first_party_cookie": {
+        "message": "First-party cookie modified"
+    },
+    "options_modified_third_party_cookie": {
+        "message": "Third-party cookie modified"
+    },
+    "options_send_not_track_desc": {
+        "message": "Prevent websites from tracking you"
+    },
+    "options_remove_client_data_title": {
+        "message": "Remove X-Client-Data header"
+    },
+    "options_remove_client_data_desc": {
+        "message": "Block Google Chrome from sending its version and modifications information to Google domains"
+    },
+    "options_disable_webrtc_title": {
+        "message": "Block WebRTC"
+    },
+    "options_disable_webrtc_desc": {
+        "message": "It can let others know your real IP address even if you use proxy or VPN"
+    },
+    "options_strip_tracking_params_title": {
+        "message": "Remove tracking parameters"
+    },
+    "options_strip_tracking_params_desc": {
+        "message": "Comma-separated list of tracking parameters which advblocker will remove from pages' addresses."
+    },
+    "options_cookies_title": {
+        "message": "Cookies"
+    },
+    "options_third_party_title": {
+        "message": "Self-destructing third-party cookies"
+    },
+    "options_third_party_desc": {
+        "message": "Limit the lifetime of third-party cookies (minutes)"
+    },
+    "options_first_party_title": {
+        "message": "Self-destructing first-party cookies (not recommended)"
+    },
+    "options_first_party_desc": {
+        "message": "Limit the lifetime of first-party cookies (minutes)"
+    },
+    "sync_manage_account_button_text": {
+        "message": "Manage account"
+    },
+    "popup_abuse_site": {
+        "message": "Kirim &nbsp;keluhan tentang&nbsp;situs ini"
+    },
+    "popup_open_filtering_log": {
+        "message": "Open filtering log"
+    },
+    "popup_advblocker_footer_integration": {
+        "message": "<a href='http://advblocker.com/advblocker-adblock-browser-extension/integration-mode.html#integration-mode' class='openLink' target='_blank'>Mode integrasi</a>advblocker sedang aktif"
+    },
+    "popup_tab_actions": {
+        "message": "Actions"
+    },
+    "popup_tab_statistics": {
+        "message": "Statistics"
+    },
+    "popup_statistics_time_day": {
+        "message": "Last day"
+    },
+    "popup_statistics_time_week": {
+        "message": "Last week"
+    },
+    "popup_statistics_time_month": {
+        "message": "Last month"
+    },
+    "popup_statistics_time_year": {
+        "message": "Last year"
+    },
+    "popup_switch_button": {
+        "message": "Protection switch"
+    },
+    "sb_title": {
+        "message": "Peringatan! Kemungkinan tidak aman!"
+    },
+    "sb_main_title": {
+        "message": "Peringatan! Kemungkinan tidak aman!"
+    },
+    "sb_advblocker_blocked": {
+        "message": "AdvBlocker telah memblok akses ke laman ini"
+    },
+    "sb_malware_description": {
+        "message": "AdvBlocker telah menemukan software mencurigakan mungkin akan terpasang pada komputer anda jika anda memprosesnya. Jika anda telah mengunjungi laman ini sebelumnya atau anda mempercayai situs ini, kemungkinan situs baru saja dibobol oleh hacker. Kami sarankan anda tidak memprosesnya atau coba kembali nanti."
+    },
+    "sb_phishing_description": {
+        "message": "AdvBlocker menemukan bahwa laman ini mungkin palsu atau peniruaan situs lain, yang didesain untuk menjebak pengguna untuk membagi informasi pribadi atau finansial. Memasukan informasi pribadi apapun pada laman ini akan berakibat pencurian identitas atau penyalahgunaan lainnya."
+    },
+    "sb_go_back": {
+        "message": "Kembali"
+    },
+    "sb_more_actions": {
+        "message": "Kedepan"
+    },
+    "sb_site_report": {
+        "message": "Informasi lain"
+    },
+    "sb_goto_site": {
+        "message": "Proses saja"
+    },
+    "short_name": {
+        "message": "AdvBlocker AdBlocker"
+    },
+    "options_about": {
+        "message": "About"
+    },
+    "options_license_agreement": {
+        "message": "End-User License Agreement"
+    },
+    "options_privacy_policy": {
+        "message": "Privacy Policy"
+    },
+    "options_acknowledgment": {
+        "message": "Acknowledgments"
+    },
+    "options_github": {
+        "message": "Github"
+    },
+    "options_about_version": {
+        "message": "Version"
+    },
+    "options_copyright": {
+        "message": "All rights reserved."
+    },
+    "options_delete_filter_confirm": {
+        "message": "Are you sure you want to delete this filter?"
+    }
+}
